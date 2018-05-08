@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Service</string>
+    <string name="battery_level">Daya Baterai Saat ini</string>
+    <string name="status">Battery Health</string>
+    <string name="level">Status</string>
+    <string name="network">Network</string>
+</resources>
